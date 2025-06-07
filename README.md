@@ -4,7 +4,7 @@
 
 <p>
 <a href='https://arxiv.org/abs/2503.00467'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a>
-<a href='None'><img src='https://img.shields.io/badge/CVPR_2025-Accepted-green'></a>
+<a href='https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Adaptive_Rectangular_Convolution_for_Remote_Sensing_Pansharpening_CVPR_2025_paper.pdf'><img src='https://img.shields.io/badge/CVPR_2025-Accepted-green'></a>
 </p>
 
 </div>
